@@ -11,8 +11,8 @@ This project is a comprehensive **Sales Insights Dashboard** developed using **M
 
 1. Install MySQL on your system.
 
-2. Download the SQL database file: [Database\_Dataset.sql](./Database_Dataset.sql) (https://github.com/chowhan123/AtliQ-Sales-Insights/blob/main/Database%20DataSet.sql).
-
+2. Download the SQL database file: [Database\_Dataset.sql](./https://github.com/chowhan123/AtliQ-Sales-Insights/blob/main/Database%20DataSet.sql).
+   
 3. Import `Database_Dataset.sql` into your MySQL environment using standard MySQL import commands.
 
 ---
@@ -100,6 +100,8 @@ To normalize sales values based on currency:
 This Power Query formula converts USD to INR using a multiplier (e.g., ₹1 = \$75) for comparative analysis.
 
 ---
+
+
 
 Feel free to fork this repo, practice SQL queries, and explore interactive dashboards using Power BI!
 
